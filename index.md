@@ -4,6 +4,7 @@
 <span class="subtitle">
 Data Scientist · Decision Scientist · Machine Learning & Optimization Specialist
 </span>
+
 **Location:** Australia  
 **Expertise:** Data Science, ML, Decision Support, Optimisation  
 **Focus Areas:** Energy, Mining, Industrial Analytics  
