@@ -1,76 +1,127 @@
----
----
+/* =========
+   ImanRahimi.github.io — Professional theme polish
+   Put this in: assets/css/style.scss
+   ========= */
 
-/* ===== Global typography ===== */
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.7;
-  font-size: 16px;
-  color: #1f2937; /* dark slate */
-  background-color: #ffffff;
+:root{
+  --accent:#1f6feb;       /* change this colour if you want */
+  --accent2:#0ea5e9;
+  --text:#0f172a;
+  --muted:#475569;
+  --bg:#ffffff;
+  --soft:#f6f8fa;
+  --border:#e5e7eb;
+  --radius:14px;
+  --shadow:0 10px 30px rgba(2,8,23,.08);
 }
 
-/* ===== Main content container ===== */
-.main-content {
-  max-width: 920px;
-  padding: 2.5rem 3rem;
+*{ box-sizing:border-box; }
+html{ scroll-behavior:smooth; }
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  line-height:1.65;
 }
 
-/* ===== Headings ===== */
-h1 {
-  font-size: 2.6rem;
-  font-weight: 700;
-  margin-bottom: 0.4rem;
+/* Limit width + make reading nicer */
+main, .page-content, .wrapper, .container{
+  max-width: 980px !important;
 }
 
-h2 {
-  font-size: 1.6rem;
-  margin-top: 2.5rem;
-  margin-bottom: 0.8rem;
-  border-bottom: 1px solid #e5e7eb;
-  padding-bottom: 0.4rem;
+/* Headings */
+h1,h2,h3{
+  letter-spacing:-0.02em;
+  line-height:1.2;
+}
+h1{ font-size:2.15rem; margin-top:.2rem; }
+h2{ margin-top:2.2rem; padding-top:.2rem; }
+p{ color:var(--muted); }
+
+/* Links */
+a{ color:var(--accent); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+
+/* ===== Top header + navigation (works on most GitHub Pages themes) ===== */
+header, .site-header{
+  background: linear-gradient(180deg, #ffffff 0%, #ffffff 55%, rgba(255,255,255,0) 100%);
+  border-bottom:1px solid var(--border);
 }
 
-h3 {
-  font-size: 1.2rem;
-  margin-top: 1.8rem;
+/* Make the nav feel like buttons */
+nav a, .site-nav a, header a, .page-header a{
+  display:inline-block;
+  padding:.45rem .75rem;
+  margin:.25rem .2rem;
+  border-radius:999px;
+  border:1px solid transparent;
+  color:var(--text);
+  font-weight:600;
+  font-size:.95rem;
+  text-decoration:none !important;
 }
 
-/* ===== Subtitle under name ===== */
-.subtitle {
-  font-size: 1.05rem;
-  font-weight: 500;
-  color: #374151;
-  margin-bottom: 1.4rem;
+/* Hover effect */
+nav a:hover, .site-nav a:hover, header a:hover, .page-header a:hover{
+  background:var(--soft);
+  border-color:var(--border);
 }
 
-/* ===== Links ===== */
-a {
-  color: #2563eb;
-  text-decoration: none;
+/* Active page highlight:
+   Jekyll often adds .active / .current, but not always.
+   This improves the current page if your theme provides it. */
+nav a.active, nav a.current, .site-nav a.active, .site-nav a.current{
+  background: rgba(31,111,235,.10);
+  border-color: rgba(31,111,235,.25);
+  color: var(--accent);
 }
 
-a:hover {
-  text-decoration: underline;
+/* ===== Content styling: nice cards/sections ===== */
+hr{ border:none; border-top:1px solid var(--border); margin:1.6rem 0; }
+
+blockquote{
+  border-left:4px solid rgba(31,111,235,.35);
+  padding: .9rem 1rem;
+  background: var(--soft);
+  border-radius: var(--radius);
+  color: var(--muted);
 }
 
-/* ===== Lists ===== */
-ul {
-  margin-left: 1.2rem;
+ul li{ margin:.35rem 0; color:var(--muted); }
+
+/* “Card” look for key blocks if you use ### headings */
+h3{
+  margin-top:1.4rem;
+}
+h3 + ul,
+h3 + p{
+  background: var(--soft);
+  border:1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+  box-shadow: var(--shadow);
 }
 
-li {
-  margin-bottom: 0.4rem;
+/* Tables (if you add publications later) */
+table{
+  width:100%;
+  border-collapse:separate;
+  border-spacing:0;
+  overflow:hidden;
+  border:1px solid var(--border);
+  border-radius: var(--radius);
 }
-
-/* ===== Sidebar (GitHub default) ===== */
-.site-header,
-.site-footer {
-  opacity: 0.85;
+th, td{
+  padding:.7rem .8rem;
+  border-bottom:1px solid var(--border);
 }
+th{ background:var(--soft); text-align:left; }
 
-/* ===== Section spacing ===== */
-section {
-  margin-bottom: 2.2rem;
+/* Make the “footer theme text” less visible */
+footer, .site-footer{
+  margin-top:2rem;
+  padding-top:1rem;
+  border-top:1px solid var(--border);
+  color:#94a3b8;
+  font-size:.9rem;
 }
