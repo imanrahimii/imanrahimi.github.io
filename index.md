@@ -1,8 +1,9 @@
+---
+layout: page
+title: Home
+---
 
-
-<span class="subtitle">
-Data Scientist · Decision Scientist · Machine Learning & Optimization Specialist
-</span>
+## Data Scientist · Decision Scientist · Machine Learning & Optimization
 
 I work at the intersection of **machine learning, optimisation, and decision support systems**, delivering analytical solutions that support complex decision-making in both **academic and industrial environments**.
 
