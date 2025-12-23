@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: Projects
 ---
 
 # Projects
+
 
 This page presents selected project domains and representative work that illustrate my experience in **applied data science, machine learning, optimisation, and decision intelligence**. Rather than listing tools or isolated experiments, the focus is on **how analytical methods are designed, integrated, and operationalised** to support real-world decision-making.
 
