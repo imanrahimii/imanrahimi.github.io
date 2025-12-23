@@ -1,4 +1,4 @@
-# Iman Rahimi
+
 
 <span class="subtitle">
 Data Scientist · Decision Scientist · Machine Learning & Optimization Specialist
