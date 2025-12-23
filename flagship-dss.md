@@ -1,9 +1,10 @@
 ---
-layout: default
-title: Flagship Case Study – AI-Driven Decision Support System
+layout: page
+title: Flagship Case Study
 ---
 
-# Flagship Case Study  
+# Flagship Case Study
+
 ## AI-Driven Decision Support System for Complex Operational Planning
 
 This case study presents a representative flagship project that illustrates my approach to **designing, developing, and deploying decision support systems (DSS)** that combine machine learning, optimisation, and domain knowledge to support real-world decision-making under uncertainty.
