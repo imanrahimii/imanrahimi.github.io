@@ -1,12 +1,10 @@
 title: Iman Rahimi
 description: Data Scientist · Decision Scientist · Machine Learning & Optimization
-theme: jekyll-theme-minimal
-markdown: kramdown
+theme: minima
 
-# Top navigation (works with jekyll-theme-minimal)
 header_pages:
-  - index.md
   - academic.md
   - industry.md
   - projects.md
+  - flagship-dss.md
   - contact.md
