@@ -1,6 +1,13 @@
 # Iman Rahimi
 
-### Data Scientist | Decision Scientist | Machine Learning & Optimization Specialist
+
+<span class="subtitle">
+Data Scientist · Decision Scientist · Machine Learning & Optimization Specialist
+</span>
+**Location:** Australia  
+**Expertise:** Data Science, ML, Decision Support, Optimisation  
+**Focus Areas:** Energy, Mining, Industrial Analytics  
+**Profile:** Academic–Industry Hybrid  
 
 I am a senior Data Scientist and Decision Scientist working at the intersection of machine learning, optimization, and large-scale decision support systems. My work spans both academic research and industry-focused delivery, with a strong emphasis on building models and algorithms that are not only theoretically sound, but also scalable, interpretable, and deployable in real operational environments.
 
@@ -14,8 +21,8 @@ From an industry perspective, I specialise in designing and implementing end-to-
 📧 Email: iman83@gmail.com  
 
 ---
+## Professional Background
 
-## Professional Focus & Core Capabilities
 
 My work sits at the practical boundary between data science, optimisation engineering, and decision analytics. Key areas of expertise include:
 
