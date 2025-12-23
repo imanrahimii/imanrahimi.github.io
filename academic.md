@@ -9,11 +9,11 @@ I am an academic researcher with a multidisciplinary background in Industrial En
 
 My work lies at the intersection of machine learning, deep learning, optimisation, and decision science, with a particular emphasis on problems characterised by uncertainty, complex constraints, and high computational scale. I aim to bridge rigorous methodological development with practical decision impact, ensuring that research outputs are both theoretically sound and operationally relevant.
 
- ## Research Focus: Machine Learning & Deep Learning
+## Research Focus: Machine Learning & Deep Learning
 
 A central component of my research is the integration of machine learning and deep learning models with optimisation and decision frameworks. Rather than treating ML models as standalone predictors, my work focuses on embedding learning models within decision-making pipelines, enabling adaptive, data-informed decisions.
 
- ## Key research directions include:
+## Key research directions include:
 
 Machine learning for decision support
 Use of supervised and ensemble learning (e.g. tree-based models, gradient boosting) to model complex system behaviour and inform optimisation processes.
