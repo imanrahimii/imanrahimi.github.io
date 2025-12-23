@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Industry Profile
-permalink: /industry/
+
 ---
 
 ## Overview
