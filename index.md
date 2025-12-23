@@ -1,17 +1,14 @@
 ---
-layout: default
-title: Home
-
+layout: home
 ---
 
-# Iman Rahimi
+## Data Scientist · Decision Scientist · Machine Learning & Optimization
 
-**Data Scientist · Decision Scientist · Machine Learning & Optimization**
-
-I work at the intersection of machine learning, optimisation, and decision support systems—delivering analytical solutions that support complex decision-making in both academic and industrial environments.
+I work at the intersection of **machine learning, optimisation, and decision support systems**, delivering analytical solutions for both **academic and industrial environments**.
 
 Use the navigation above to explore:
-- Academic Profile  
-- Industry Profile  
-- Projects  
+- Academic Profile
+- Industry Profile
+- Projects
+- Flagship Case Study
 - Contact
