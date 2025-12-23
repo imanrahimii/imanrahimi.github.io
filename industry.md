@@ -1,7 +1,10 @@
+
 ---
-layout: default
+layout: page
 title: Industry Profile
 ---
+
+
 
 # Industry Profile
 
