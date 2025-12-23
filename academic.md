@@ -1,7 +1,10 @@
+
 ---
-layout: default
+layout: page
 title: Academic Profile
 ---
+
+
 
 # Academic Profile
 
