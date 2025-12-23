@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Academic Profile
-permalink: /academic/
+
 ---
 
 ## Overview
