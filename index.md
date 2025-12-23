@@ -4,39 +4,25 @@ title: Home
 
 ---
 
-<div class="hero">
-  <p class="kicker">Data Scientist · Decision Scientist · Machine Learning & Optimization</p>
-  <h1>Iman Rahimi</h1>
-  <p class="lead">
-    I work at the intersection of <strong>machine learning</strong>, <strong>optimisation</strong>, and
-    <strong>decision support systems</strong>, delivering analytical solutions across both
-    <strong>academic</strong> and <strong>industrial</strong> environments.
-  </p>
+## Iman Rahimi
 
-  <div class="cta-grid">
-    <a class="card-btn academic" href="/academic/">
-      <div class="card-title">Academic Profile</div>
-      <div class="card-sub">Research · Publications · Teaching · Supervision</div>
-    </a>
+**Data Scientist · Decision Scientist · Machine Learning & Optimization**
 
-    <a class="card-btn industry" href="/industry/">
-      <div class="card-title">Industry Profile</div>
-      <div class="card-sub">Delivery · MLOps · Analytics · Deployment</div>
-    </a>
+I work at the intersection of **machine learning**, **optimisation**, and **decision support systems**, delivering analytical solutions across both **academic** and **industrial** environments.
 
-    <a class="card-btn projects" href="/projects/">
-      <div class="card-title">Projects</div>
-      <div class="card-sub">DSS · Forecasting · Text Mining · HPC</div>
-    </a>
+Use the navigation above or the links below to explore my work:
 
-    <a class="card-btn flagship" href="/flagship-dss/">
-      <div class="card-title">Flagship Case Study</div>
-      <div class="card-sub">AI-Driven Decision Support System</div>
-    </a>
+- [Academic Profile](/academic/)  
+  Research · Publications · Teaching · Supervision
 
-    <a class="card-btn contact" href="/contact/">
-      <div class="card-title">Contact</div>
-      <div class="card-sub">Email · GitHub · Google Scholar</div>
-    </a>
-  </div>
-</div>
+- [Industry Profile](/industry/)  
+  Delivery · MLOps · Analytics · Deployment
+
+- [Projects](/projects/)  
+  DSS · Forecasting · Text Mining · HPC
+
+- [Flagship Case Study](/flagship-dss/)  
+  AI-Driven Decision Support System
+
+- [Contact](/contact/)  
+  Email · GitHub · Google Scholar
