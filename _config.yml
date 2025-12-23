@@ -1,11 +1,10 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-orderedlist
 title: Iman Rahimi
-description: Data Scientist · Decision Scientist · Machine Learning & Optimization
+description: Data Scientist · Decision Scientist · Machine Learning & Optimization Specialist
 
 header_pages:
-  - index.md
   - academic.md
   - industry.md
   - projects.md
-  - flagship-dss.md
+  - case-studies.md
   - contact.md
