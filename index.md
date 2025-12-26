@@ -10,7 +10,6 @@ title: Home
 <img src="/assets/img/unnamed.jpg" alt="Iman Rahimi" class="unnamed.jpg">
 
 
-
 **Data Scientist · Decision Scientist · Machine Learning & Optimization**
 
 I work at the intersection of **machine learning**, **optimisation**, and **decision support systems**, delivering analytical solutions across both **academic** and **industrial** environments.
