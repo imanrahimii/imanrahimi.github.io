@@ -6,6 +6,7 @@ title: Home
 
 ## Iman Rahimi
 
+<img src="{{ '/assets/img/unnamed.jpg' | relative_url }}" alt="Iman Rahimi" class="profile-pic">
 
 
 
