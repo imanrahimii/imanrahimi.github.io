@@ -7,7 +7,8 @@ title: Home
 ## Iman Rahimi
 
 
-<img src="/assets/img/unnamed.jpg" alt="Iman Rahimi" class="unnamed.jpg">
+<img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="Iman Rahimi" class="profile-pic">
+
 
 
 **Data Scientist · Decision Scientist · Machine Learning & Optimization**
