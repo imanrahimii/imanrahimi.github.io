@@ -7,7 +7,6 @@ title: Home
 ## Iman Rahimi
 
 
-<img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="Iman Rahimi" class="profile-pic">
 
 
 
