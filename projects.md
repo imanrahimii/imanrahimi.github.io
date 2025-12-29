@@ -6,80 +6,201 @@ title: Projects
 
 ## Overview
 
-This page presents selected project areas and representative work illustrating my experience in applied data science, machine learning, optimisation, and decision intelligence.
+This page presents selected project domains and representative work that illustrate my experience in applied data science, machine learning, optimisation, and decision intelligence, across both academic and industry contexts.
 
-Rather than listing tools or isolated experiments, the focus is on how analytical methods are designed, integrated, and operationalised to support real-world decision-making. Across projects, my role typically spans:
+Rather than cataloguing individual tools or isolated experiments, the emphasis is on how analytical methods are formulated, integrated, and operationalised to support real-world decision-making under uncertainty and constraints.
 
-Problem formulation
+Across projects, my role typically spans:
 
-Methodological and system design
+Problem formulation from loosely defined, real-world decision contexts
 
-Implementation and validation
+Methodological and system design, combining ML, optimisation, and domain knowledge
 
-Communication of results to technical and non-technical stakeholders
+Implementation, validation, and scalability considerations
 
-### Decision Support Systems (DSS)
+Communication of results to both technical and non-technical stakeholders
+
+## Decision Support Systems (DSS)
 AI-Driven Decision Support for Complex, Constrained Environments
 
-I have designed and contributed to AI-driven decision support systems that assist decision-makers operating under uncertainty, multiple objectives, and real operational constraints. These systems integrate data analytics, machine learning, and optimisation into coherent decision workflows, rather than isolated models.
+A core theme of my project work is the design and implementation of AI-driven decision support systems (DSS) for environments characterised by uncertainty, multiple objectives, and operational constraints.
 
-### Key aspects of this work include:
+These projects move beyond standalone predictive models, focusing instead on decision-centric systems where analytics directly inform planning, prioritisation, and strategic choices.
 
-Translating loosely defined, real-world problems into structured decision models
+Typical characteristics of these DSS projects include:
 
-Identifying decision variables, constraints, objectives, and uncertainty sources
+Formalising ambiguous, real-world problems into structured decision models
 
-Integrating predictive models with optimisation and rule-based logic
+Identification and modelling of:
 
-Ensuring outputs are interpretable, transparent, and usable by non-technical stakeholders
+Decision variables
 
-These systems support decisions related to planning, scheduling, prioritisation, and strategic evaluation, particularly in environments where trade-offs between performance, cost, risk, and feasibility must be carefully balanced.
+Hard and soft constraints
 
-### Forecasting & Business Analytics
-Predictive Analytics for Planning and Operations
+Multiple, often conflicting objectives
 
-I have developed forecasting and analytics solutions designed to support resource planning, operational decision-making, and performance monitoring.
+Sources of uncertainty and risk
 
-Representative activities include:
+Integration of:
 
-Design of predictive analytics pipelines aligned with operational and business KPIs
+Predictive machine learning models
 
-Development of forecasting models for short-, medium-, and long-term planning
+Optimisation algorithms
 
-Incorporation of uncertainty estimates and scenario analysis
+Rule-based and domain-driven logic
 
-Communication of model outputs through clear reports and visual dashboards
+Design of interpretable outputs to support trust and adoption by decision-makers
 
-The emphasis in these projects is on decision usefulness, ensuring forecasts directly inform planning actions rather than remaining purely descriptive.
+These systems have been applied to problems such as:
 
-### Data Intelligence (Text Mining & Bibliometrics)
-Data-Driven Insight from Unstructured Information
+Operational planning and scheduling
 
-I have worked on data intelligence projects involving text mining, bibliometric analysis, and network-based exploration to extract insight from large volumes of unstructured information.
+Resource allocation under constraints
+
+Scenario evaluation and trade-off analysis
+
+Strategic decision support in large-scale industrial and energy systems
+
+The overarching goal is to ensure that analytical outputs are actionable, transparent, and decision-relevant, rather than technically sophisticated but operationally disconnected.
+
+## Optimisation-Focused Projects
+## Large-Scale and Multi-Objective Optimisation Applications
+
+Many of my projects centre on optimisation-driven decision-making, particularly in settings where classical exact methods alone are insufficient due to scale, uncertainty, or problem complexity.
+
+Representative optimisation-focused work includes:
+
+Large-scale linear, nonlinear, and mixed-integer optimisation
+
+Multi-objective optimisation and Pareto-based trade-off analysis
+
+Constraint handling techniques for infeasible or noisy real-world data
+
+Hybrid approaches combining exact optimisation with metaheuristics
+
+In several projects, optimisation models are embedded within broader DSS frameworks, allowing decision-makers to:
+
+Explore alternative solutions under varying assumptions
+
+Understand trade-offs between competing objectives
+
+Evaluate feasibility, risk, and performance simultaneously
+
+This work reflects a strong emphasis on practical solvability and interpretability, rather than purely theoretical optimality.
+
+## Machine Learning & Forecasting Projects
+## Predictive Analytics for Planning and Operations
+
+I have designed and delivered machine learning and forecasting solutions intended to directly support planning, operational decision-making, and performance monitoring.
+
+These projects typically involve:
+
+Development of predictive analytics pipelines aligned with operational and business KPIs
+
+Time series forecasting for short-, medium-, and long-term planning horizons
+
+Use of machine learning and deep learning models to capture non-linear dynamics
+
+Incorporation of uncertainty estimation and scenario analysis
+
+A key design principle across these projects is that forecasts are decision inputs, not final outputs. As such, models are evaluated not only on predictive accuracy, but also on:
+
+Stability under changing conditions
+
+Interpretability and explainability
+
+Usefulness for downstream optimisation or policy decisions
+
+Results are communicated through clear reports, dashboards, and scenario summaries, enabling stakeholders to translate predictions into concrete actions.
+
+## Integrated ML–Optimisation Projects
+## Learning-Enhanced Decision Systems
+
+Several projects explicitly integrate machine learning with optimisation, reflecting my broader research agenda of combining learning and decision-making.
+
+In these projects:
+
+Machine learning models are used to:
+
+Forecast demand, cost, or system behaviour
+
+Learn representations or surrogate models
+
+Capture uncertainty and variability
+
+Optimisation models consume these outputs to:
+
+Recommend decisions
+
+Allocate resources
+
+Evaluate trade-offs under constraints
+
+This integration enables:
+
+Adaptive decision-making
+
+Scenario-based planning
+
+More robust and flexible decision policies
+
+Such hybrid ML–optimisation systems are particularly valuable in large-scale industrial, energy, and infrastructure contexts, where decisions must be revisited as new data becomes available.
+
+## Data Intelligence (Text Mining & Bibliometrics)
+## Data-Driven Insight from Unstructured Information
+
+In addition to numerical and operational data, I have led and contributed to data intelligence projects focused on extracting insight from unstructured textual data.
 
 This work includes:
 
-Trend analysis and topic modelling to identify emerging themes
+Text mining and topic modelling to identify emerging themes
 
-Collaboration and citation network analysis
+Bibliometric and citation analysis
+
+Collaboration and network analysis
 
 Research landscape mapping and evidence synthesis
 
-Development of reproducible data pipelines and analytical workflows
+These projects support:
 
-These methods have been applied to research analysis, policy-relevant studies, and strategic intelligence tasks, supporting evidence-based decision-making.
+Strategic research planning
 
-### Cross-Cutting Methodology
+Policy-relevant analysis
+
+Systematic literature reviews
+
+High-level decision support based on large document collections
+
+Emphasis is placed on reproducibility, transparency, and interpretability, ensuring that insights can be trusted and reused.
+
+## High-Performance & Scalable Computing
+## Computationally Intensive Analytics and Optimisation
+
+Several projects involve computationally demanding models, requiring careful attention to scalability and performance.
+
+This includes:
+
+Large-scale optimisation problems
+
+High-dimensional machine learning models
+
+Parallel and GPU-accelerated computation
+
+Efficient algorithmic design for real-world deployment
+
+The focus is on achieving a balance between computational efficiency and decision quality, particularly in time-sensitive or large-scale applications.
+
+## Cross-Cutting Methodological Philosophy
 
 Across all projects, a consistent methodological philosophy is applied:
 
-Decision-centric design rather than model-centric development
+Decision-first design, rather than model-first development
 
-Emphasis on scalability and robustness
+Tight integration of machine learning, optimisation, and domain knowledge
 
-Integration of machine learning, optimisation, and domain knowledge
+Emphasis on robustness, scalability, and interpretability
 
-Clear communication of assumptions, limitations, and trade-offs
+Clear articulation of assumptions, limitations, and trade-offs
 
-
+This approach ensures that analytical solutions deliver practical value, not just technical novelty.
 
