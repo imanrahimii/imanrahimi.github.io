@@ -118,7 +118,7 @@ Selected research directions reflected in my publications include:
 ## Books & Edited Volumes
 
 Below is a selection of books and edited volumes that reflect my work in AI,
-optimisation, evolutionary computation, Scheduling,  and
+optimisation, evolutionary computation, scheduling,  and
 data-driven supply chain analytics.
 
 <div style="display:flex; flex-wrap:wrap; gap:30px; margin-top:20px;">
