@@ -11,7 +11,7 @@ I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, bui
 
 ### 1) Manufacturing — Production Planning & Scheduling (Automotive)
 
-**Role:** Production Planning Analyst | **2017–2021** (large-scale automotive manufacturing environment) 
+**Role:** Production Planning Analyst | **2017–2021** (large-scale automotive manufacturing environment), Iran
 
 **What I did (high-impact planning work):**
 - Owned **daily and weekly production schedules** for manufacturing lines, translating demand and constraints into feasible plans.
@@ -28,7 +28,7 @@ I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, bui
 
 ### 2) Manufacturing — High-Volume Food Production Planning
 
-**Role:** Production Planning Analyst| **2013–2016** (high-volume food manufacturing environment) 
+**Role:** Production Planning Analyst| **2013–2016** (high-volume food manufacturing environment), Malaysia
 
 **What I did (operations + coordination):**
 - Supported **production planning and scheduling** across processing and packaging lines under tight time and quality constraints.
