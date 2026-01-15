@@ -20,7 +20,7 @@ I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, bui
 - Maintained robust **WIP tracking**, production records, and order visibility to support control decisions and escalation.
 - Supported **continuous improvement** in planning logic and operational coordination (reducing rework loops and schedule churn).
 
-**How I think about it (your “optimisation DNA” in manufacturing):**
+**How I think about it:**
 - Production planning is a constrained optimisation problem: capacity, precedence, availability, and service-level trade-offs.
 - I prioritise feasibility-first scheduling, then improve performance via bottleneck management and scenario-based replanning.
 
