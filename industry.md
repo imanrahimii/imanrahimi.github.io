@@ -7,7 +7,7 @@ title: Industry Profile
 
 I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, building end-to-end decision systems that translate data, models, and uncertainty into actionable plans—across manufacturing, energy, and mining contexts. My industry focus is not “models in isolation”, but deployable decision workflows that fit real operational constraints (data limitations, capacity bottlenecks, lead times, and cross-functional dependencies).
 
-## Industry Experience (Structured by Domain)
+## Industry Experience
 
 ### 1) Manufacturing — Production Planning & Scheduling (Automotive)
 
