@@ -113,22 +113,52 @@ Selected research directions reflected in my publications include:
 ---
 
 ## Books & Edited Volumes
-I have contributed to and edited several books in optimisation, big data analytics, and applied AI.
+---
 
-- **Smart Cities: A System of Systems Perspective: Engineering, Analytics, and Innovations for Sustainable Urban Development** (Elsevier)  
-  Edited by: Iman Rahimi, Ali Emrouznejad, Mo Jamshidi, Amir H. Gandomi
+## Books & Edited Volumes
 
-- **Sustainable Supply Chain of Renewable Energy Networks: Global Perspectives and Innovations in Engineering Optimization** (Springer, in press)  
-  Edited by: Iman Rahimi, Amir H. Gandomi, Miadreza Shafie-Khah, Abdollah Ahmadi
+Below is a selection of books and edited volumes that reflect my work in AI,
+optimisation, evolutionary computation, Scheduling,  and
+data-driven supply chain analytics.
 
-- **Multi-Objective Combinatorial Optimization Problems and Solution Methods** (Elsevier)  
-  Edited by: Mehdi Toloo, Siamak Talatahari, Iman Rahimi
+<div style="display:flex; flex-wrap:wrap; gap:30px; margin-top:20px;">
 
-- **Big Data Analytics in Supply Chain Management: Theory and Application** (CRC Press / Taylor & Francis)  
-  Edited by: Iman Rahimi, Amir H. Gandomi, Simon Fong, M. Ali Ulku
+<div style="width:200px; text-align:center;">
+  <a href="https://www.sciencedirect.com/book/9780128237991/multi-objective-combinatorial-optimization-problems-and-solution-methods" target="_blank">
+    <img src="{{ '/els.png' | relative_url }}" style="width:100%; box-shadow:0 4px 12px rgba(0,0,0,.25);">
+  </a>
+  <p><strong>Multi-Objective Combinatorial Optimization Problems and Solution Methods</strong><br>
+  Academic Press</p>
+</div>
 
-- **Evolutionary Computation in Scheduling** (Wiley)  
-  Edited by: Amir H. Gandomi, Ali Emrouznejad, Mo M. Jamshidi, Kalyanmoy Deb, Iman Rahimi
+<div style="width:200px; text-align:center;">
+  <a href="https://www.wiley.com/en-us/Evolutionary+Computation+in+Scheduling-p-9781119573845" target="_blank">
+    <img src="{{ '/Wiley.png' | relative_url }}" style="width:100%; box-shadow:0 4px 12px rgba(0,0,0,.25);">
+  </a>
+  <p><strong>Evolutionary Computation in Scheduling</strong><br>
+  Wiley</p>
+</div>
+
+<div style="width:200px; text-align:center;">
+  <a href="https://www.taylorfrancis.com/books/edit/10.1201/9780367816384/big-data-analytics-supply-chain-management-iman-rahimi-amir-gandomi-simon-fong" target="_blank">
+    <img src="{{ '/tf.png' | relative_url }}" style="width:100%; box-shadow:0 4px 12px rgba(0,0,0,.25);">
+  </a>
+  <p><strong>Big Data Analytics in Supply Chain Management</strong><br>
+  CRC Press</p>
+</div>
+
+<div style="width:200px; text-align:center;">
+  <a href="https://link.springer.com/book/10.1007/978-981-96-4940-2" target="_blank">
+    <img src="{{ '/s.png' | relative_url }}" style="width:100%; box-shadow:0 4px 12px rgba(0,0,0,.25);">
+  </a>
+  <p><strong>Sustainable Supply Chain of Renewable Energy Networks</strong><br>
+  Springer</p>
+</div>
+
+</div>
+
+
+
 
 ---
 
