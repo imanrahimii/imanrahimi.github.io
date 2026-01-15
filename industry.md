@@ -44,8 +44,7 @@ I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, bui
 
 ### 3) Applied Industry Research — Energy & Mining Decision Support
 
-**Focus:** Applied research projects supporting operational decision-making in energy and mining (Australia) :contentReference[oaicite:3]{index=3}
-
+**Focus:** Applied research projects supporting operational decision-making in energy and mining (Australia)
 **What I deliver (industry-facing outcomes):**
 - Turning operational and production data into **decision support models** for planning, prioritisation, and trade-off evaluation.
 - Developing optimisation studies and analytical prototypes with stakeholders, focusing on practicality and operational relevance.
