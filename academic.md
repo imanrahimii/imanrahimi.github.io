@@ -115,7 +115,7 @@ Selected research directions reflected in my publications include:
 ## Books & Edited Volumes
 ---
 
-## Books & Edited Volumes
+
 
 Below is a selection of books and edited volumes that reflect my work in AI,
 optimisation, evolutionary computation, scheduling,  and
