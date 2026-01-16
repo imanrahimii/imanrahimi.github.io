@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+canonical: https://imanrahimii.github.io/imanrahimi.github.io/
 
 ---
 
