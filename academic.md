@@ -109,7 +109,8 @@ Selected research directions reflected in my publications include:
 - AI-driven DSS integrating optimisation, learning, and uncertainty modelling for operational decision-making  
 - ML + optimisation for industrial efficiency (including mining and energy systems)  
 - Large-scale text mining / bibliometric intelligence for mapping research trends and collaboration networks  
-
+My full publications are avaiable at:
+https://scholar.google.com/citations?user=2idyBi0AAAAJ&hl=en 
 ---
 
 ## Books & Edited Volumes
