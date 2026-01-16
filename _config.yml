@@ -1,7 +1,15 @@
 title: Iman Rahimi
 description: Data Scientist · Decision Scientist · Machine Learning & Optimization
-google_site_verification: "VLcAL3kME8ihsumntYJbwUtVX7ysNzisZ-gCdC5DBs" 
+
+url: "https://imanrahimii.github.io"
+baseurl: "/imanrahimi.github.io"
+
+google_site_verification: "VLCAL3kME8ihsumntYJbwUtVX7ysNzisZ-gCdC5DBs"
+
 theme: minima
+
+plugins:
+  - jekyll-sitemap
 
 header_pages:
   - academic.md
