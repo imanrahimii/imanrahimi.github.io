@@ -56,6 +56,11 @@ My academic work spans several interlinked themes:
 - Applied AI and optimisation in energy systems and industrial operations  
 - Forecasting, efficiency optimisation, and decision analytics  
 - Industry-relevant, decision-centric modelling
+<a href="https://www.mdpi.com/2079-8954/14/1" target="_blank">
+  <img src="assets/img/big_cover-systems-v14-i1.png"
+       alt="AI-Driven Energy Demand Forecasting and Load Optimisation in Healthcare Systems"
+       width="420">
+</a>
 
 ---
 
