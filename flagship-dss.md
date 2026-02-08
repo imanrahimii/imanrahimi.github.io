@@ -3,7 +3,7 @@ layout: page
 title: Flagship Case Study
 ---
 
-# Flagship Case Study
+
 
 ## AI-Driven Decision Support System for Complex Operational Planning
 
