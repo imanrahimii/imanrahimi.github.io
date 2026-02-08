@@ -3,7 +3,7 @@ layout: page
 title: Academic Profile
 ---
 
-# Academic Profile
+
 
 ## Overview
 I am an academic researcher with a multidisciplinary background in Industrial Engineering and Computer Science, specialising in data-driven optimisation, machine learning, deep learning, and decision support systems. My research is strongly application-driven, focusing on developing advanced analytical and optimisation methods that can be deployed in large-scale, real-world decision environments.
