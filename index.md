@@ -19,7 +19,7 @@ canonical: https://imanrahimii.github.io/imanrahimi.github.io/
 
 
 🔗**CEO & Founder – UTS Startup:**  
-[OptMining (Machine Learning–Driven Decision Optimisation for Industrial Systems)](https://opt-mining.com/)
+[OptMining (Machine Learning–Driven Decision Optimisation for Industrial Systems)](https://opt-mining.com.au/)
 
 
 I work at the intersection of **machine learning**, **optimisation**, and **decision support systems**, delivering analytical solutions across both **academic** and **industrial** environments.
