@@ -18,7 +18,7 @@ canonical: https://imanrahimii.github.io/imanrahimi.github.io/
 **Data Scientist · Decision Scientist · Machine Learning & Optimization**
 
 
-**CEO & Founder – UTS Startup:**  
+🔗**CEO & Founder – UTS Startup:**  
 [OptMining (Machine Learning–Driven Decision Optimisation for Industrial Systems)](https://opt-mining.com/)
 
 
