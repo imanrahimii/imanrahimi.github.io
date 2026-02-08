@@ -5,7 +5,7 @@ canonical: https://imanrahimii.github.io/imanrahimi.github.io/
 
 ---
 
-## Home
+## Iman Rahimi
 
 
 <img src="{{ '/assets/img/Photo-Library.png' | relative_url }}"
