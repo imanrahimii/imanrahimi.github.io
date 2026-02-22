@@ -161,17 +161,17 @@ data-driven supply chain analytics.
   Springer</p>
 </div>
 
-</div>
+
 
 <div style="width:200px; text-align:center;">
  
    <img src="/assets/img/smart_cities.jpg" width="160">
 
-  <p><strong>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</strong><br>
+  <p>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</p>
   Elsevier</p>
 </div>
 
-</div>
+
 
 
 ---
