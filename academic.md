@@ -165,7 +165,7 @@ data-driven supply chain analytics.
 
 
 <p>
-<img src="/assets/img/smart cities.jpg" width="160">
+<img src="/assets/img/smart_cities.jpg" width="160">
 </a><br>
 
 <b>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</b><br>
