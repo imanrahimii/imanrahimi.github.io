@@ -164,16 +164,10 @@ data-driven supply chain analytics.
 
 
 <div style="width:200px; text-align:center;">
- 
-   <img src="/assets/img/smart_cities.jpg" width="160">
-
-  <p>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</p>
-  Elsevier</p>
+<img src="{{ '/assets/img/smart_cities.jpg' | relative_url}}" width="160">
+<p><strong>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</strong><br>Elsevier</p>
 </div>
-
-
-
-
+   
 ---
 
 ## Grants & Awards
