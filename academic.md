@@ -163,15 +163,16 @@ data-driven supply chain analytics.
 
 </div>
 
+<div style="width:200px; text-align:center;">
+ 
+   <img src="/assets/img/smart_cities.jpg" width="160">
 
-<p>
-<img src="/assets/img/smart_cities.jpg" width="160">
-</a><br>
+  <p><strong>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</strong><br>
+  Elsevier</p>
+</div>
 
-<b>Smart Cities: A System of Systems Perspective – Engineering, Analytics, and Innovations for Sustainable Urban Development</b><br>
-Elsevier<br>
-Edited by Iman Rahimi, Ali Emrouznejad, Mo Jamshidi, Amir H. Gandomi
-</p>
+</div>
+
 
 ---
 
