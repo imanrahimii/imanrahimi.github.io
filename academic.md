@@ -164,7 +164,7 @@ data-driven supply chain analytics.
 
 
 <div style="width:200px; text-align:center;">
-<a href="PUT-YOUR-ELSEVIER-LINK-HERE" target="_blank">
+<a href="https://shop.elsevier.com/books/smart-cities-a-system-of-systems-perspective/rahimi/978-0-443-45550-6" target="_blank">
 <img src="{{ '/assets/img/smart_cities.jpg' | relative_url }}"
 style="width:100%; height:260px; object-fit:contain; box-shadow:0 4px 12px rgba(0,0,0,.25);">
 </a>
