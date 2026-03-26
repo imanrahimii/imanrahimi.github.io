@@ -68,6 +68,7 @@ My academic work spans several interlinked themes:
 I have substantial university teaching experience across Australia and internationally, covering data science, machine learning, programming, analytics, and enterprise systems.
 
 ### University of Technology Sydney (UTS), Australia
+- Fundamentals of Software Programming (2026)
 - Enabling Enterprise Information Systems (2025)  
 - Collaborative Business Processes (2025)  
 - Innovations for Global Relationship Management (2024–2025)  
@@ -77,6 +78,8 @@ I have substantial university teaching experience across Australia and internati
 - Fundamentals of Information Systems (2024)
 
 ### The University of Sydney, Australia
+- Professional Practice in IT (2026)
+- Project Management in IT (2026)
 - Data Privacy: Theory and Practice (2025)  
 - Professional Practice in IT (2025)  
 - Project Management in IT (2025)  
@@ -89,6 +92,10 @@ I have substantial university teaching experience across Australia and internati
 - Information Technology in Action (2025)  
 - Advanced Programming Concepts (2025)
 
+### University of Tasmania, Australia
+- Programming (2026)
+- Programming Fundamentals (2026)
+- Professional Practice in IT (2026)
 ### Khazar University, Azerbaijan Republic
 - Machine Learning (2025)  
 - Advanced Data Structure (2024)  
