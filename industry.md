@@ -9,36 +9,21 @@ I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, bui
 
 ## Industry Experience
 
-### 1) Manufacturing — Production Planning & Scheduling (Automotive)
+### 1) AI & Data-Driven Infrastructure Systems (UTS / Research)
 
-**Role:** Production Planning Analyst | **2017–2021** (large-scale automotive manufacturing environment), Iran
-
-**What I did (high-impact planning work):**
-- Owned **daily and weekly production schedules** for manufacturing lines, translating demand and constraints into feasible plans.
-- Managed **capacity planning** (labour/machines/line availability) and continuously re-optimised schedules to reduce delays.
-- Coordinated planning actions across **procurement, logistics, quality, and production** to maintain flow and delivery reliability.
-- Maintained robust **WIP tracking**, production records, and order visibility to support control decisions and escalation.
-- Supported **continuous improvement** in planning logic and operational coordination (reducing rework loops and schedule churn).
-
-**How I think about it:**
-- Production planning is a constrained optimisation problem: capacity, precedence, availability, and service-level trade-offs.
-- I prioritise feasibility-first scheduling, then improve performance via bottleneck management and scenario-based replanning.
+-Designed machine learning and optimisation models for complex engineering systems under uncertainty
+-Developed data-driven frameworks for system performance analysis and decision-making
+-Applied predictive modelling techniques to large-scale infrastructure and networked systems
+-Translated theoretical models into practical, real-world engineering applications
 
 ---
 
-### 2) Manufacturing — High-Volume Food Production Planning
+### 2) Predictive Analytics & System Monitoring
 
-**Role:** Production Planning Analyst| **2013–2016** (high-volume food manufacturing environment), Malaysia
-
-**What I did (operations + coordination):**
-- Supported **production planning and scheduling** across processing and packaging lines under tight time and quality constraints.
-- Coordinated across **processing, packaging, and logistics**, aligning material availability with throughput targets.
-- Tracked **materials availability, output, and daily variances**, supporting corrective actions and short-cycle replanning.
-- Contributed to reporting and efficiency improvement initiatives (reducing shortages, improving visibility, stabilising handovers).
-
-**Why this matters for decision science:**
-- Food manufacturing is a “real-time” system: variability, constraints, and compliance requirements make robust planning essential.
-- This experience strengthened my ability to operate with incomplete information and still deliver stable plans.
+-Developed analytical models to identify patterns, anomalies, and system behaviours in complex datasets
+-Applied statistical learning and AI techniques for predictive insights and system diagnostics
+-Experience with time-dependent data and dynamic system modelling
+-Built frameworks applicable to predictive maintenance and defect detection
 
 ---
 
@@ -80,3 +65,9 @@ A defining feature of my industry approach is integration:
 - Feasibility-first modelling (plans must work in real constraints)
 - Scenario-aware analysis (plan robustness matters more than idealised optimality)
 - Clear communication (assumptions, limitations, and trade-offs are explicit)
+- Strong background in machine learning and data-driven modelling for engineering systems
+- Experience developing predictive and optimisation frameworks applicable to infrastructure health monitoring
+- Familiar with time-series analysis and system behaviour modelling
+- Capable of designing algorithmic solutions for defect detection and system reliability
+- Experience contributing to digital representations of complex systems (digital twin concepts)
+- Ability to translate research into practical monitoring and decision-support tools
