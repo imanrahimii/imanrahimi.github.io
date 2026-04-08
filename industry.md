@@ -5,60 +5,63 @@ title: Industry Profile
 
 ## Overview
 
-I work as a Data Scientist, Decision Scientist, and Optimisation Specialist, building end-to-end decision systems that translate data, models, and uncertainty into actionable plans—across manufacturing, energy, and mining contexts. My industry focus is not “models in isolation”, but deployable decision workflows that fit real operational constraints (data limitations, capacity bottlenecks, lead times, and cross-functional dependencies).
+I work as a Data Scientist, Optimisation Specialist, and Decision Scientist, developing data-driven systems that integrate machine learning, optimisation, and domain knowledge to support operational and strategic decisions.
+
+My experience spans manufacturing, supply chain, logistics, energy, and industrial systems, where I focus on turning complex data and constraints into deployable decision workflows—not just models, but actionable solutions aligned with real operational environments.
 
 ## Industry Experience
+### 1) Supply Chain & Logistics Analyst
+###  Iran Khodro (Automotive Manufacturing), Iran
+2017-2020
 
-### 1) AI & Data-Driven Infrastructure Systems (UTS / Research)
-
--Designed machine learning and optimisation models for complex engineering systems under uncertainty
--Developed data-driven frameworks for system performance analysis and decision-making
--Applied predictive modelling techniques to large-scale infrastructure and networked systems
--Translated theoretical models into practical, real-world engineering applications
-
----
-
-### 2) Predictive Analytics & System Monitoring
-
--Developed analytical models to identify patterns, anomalies, and system behaviours in complex datasets
--Applied statistical learning and AI techniques for predictive insights and system diagnostics
--Experience with time-dependent data and dynamic system modelling
--Built frameworks applicable to predictive maintenance and defect detection
+-Analysed supply chain operations including procurement, inventory, and production planning
+-Applied optimisation techniques for supplier selection, logistics planning, and cost reduction
+-Identified bottlenecks and inefficiencies in production and distribution systems
+-Identified bottlenecks and inefficiencies in production and distribution systems
 
 ---
 
-### 3) Applied Industry Research — Energy & Mining Decision Support
+### 2) Data Scientist / Analytics Specialist
+### Diba Data co (Data & Technology Company), Iran
+2014-2016
 
-**Focus:** Applied research projects supporting operational decision-making in energy and mining (Australia)
-**What I deliver (industry-facing outcomes):**
-- Turning operational and production data into **decision support models** for planning, prioritisation, and trade-off evaluation.
-- Developing optimisation studies and analytical prototypes with stakeholders, focusing on practicality and operational relevance.
-- Building frameworks that integrate **predictive analytics + optimisation** for decisions under uncertainty.
+-Developed machine learning models for pattern recognition, forecasting, and predictive analytics
+-Worked with structured and unstructured data to extract actionable insights
+-Built analytical pipelines for business intelligence and decision support
+-Applied statistical modelling and data mining techniques across multiple domains
+-Delivered insights to stakeholders through reports and data visualisations
 
 ---
 
-## Capability Stack (How I Deliver in Industry)
+### 3) Operations & Optimisation Analyst (Manufacturing)
+### Eratech Manufacturing Sdn Bhd (Oil & Gas Sector), Malaysia
+2013-2014
 
-### A) Optimisation-Driven Decision Making
-I build prescriptive systems for decisions involving competing objectives and real constraints, including:
-- Resource allocation and scheduling under limited capacity
-- Planning under uncertainty and operational risk
-- Multi-objective trade-offs (cost, performance, reliability, feasibility)
-- Constraint-handling when data is noisy, incomplete, or operational rules are complex
+- Analysed production and operational data in oil & gas manufacturing environments
+- Supported planning decisions under operational constraints and uncertainty
+- Developed optimisation models for resource allocation and production efficiency
+- Contributed to improving workflow efficiency and cost performance
+- Applied quantitative methods to real industrial engineering problems
 
-### B) Machine Learning & Predictive Analytics (Deployment-Oriented)
-My ML work is designed to serve downstream decisions, not just accuracy:
-- Forecasting and predictive modelling to inform planning actions
-- Feature engineering and representation learning for decision relevance
-- Robust validation under real-world data limitations
-- Explainability and stakeholder-ready reporting
+---
 
-### C) Integrated ML–Optimisation Systems (End-to-End Delivery)
-A defining feature of my industry approach is integration:
-- ML models generate forecasts / risk estimates / latent signals
-- Optimisation consumes these signals to recommend feasible actions
-- Outputs are stress-tested via scenarios and constraints
-- Results are communicated through interpretable summaries and decision dashboards
+### 4) Production & Supply Chain Analyst
+### Persian Dairy Manufacturing Sdn Bhd (Food Industry), Malaysia
+2012-2013
+
+- Worked on production planning, inventory control, and supply chain coordination
+- Applied forecasting and demand analysis for perishable product management
+- Developed models to reduce waste and improve supply chain efficiency
+- Analysed logistics and distribution processes for cost and service optimisation
+- Supported operational decision-making using data-driven approaches
+### Applied Research & Industry Collaboration (Australia)
+### University of Technology Sydney (UTS)
+2021- Present
+- Developed AI and optimisation models for large-scale infrastructure and industrial systems
+- Built decision support systems integrating machine learning and optimisation
+- Applied predictive modelling for system performance, risk, and uncertainty analysis
+- Delivered industry-relevant research in energy, mining, and complex systems
+- Collaborated with multidisciplinary teams and industry stakeholders
 
 ## How I Work (Practical Delivery Style)
 - Decision-centric design (start from what must be decided, not from the model)
