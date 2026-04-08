@@ -54,7 +54,8 @@ My experience spans manufacturing, supply chain, logistics, energy, and industri
 - Developed models to reduce waste and improve supply chain efficiency
 - Analysed logistics and distribution processes for cost and service optimisation
 - Supported operational decision-making using data-driven approaches
-### Applied Research & Industry Collaboration (Australia)
+---
+### 5) Applied Research & Industry Collaboration (Australia)
 ### University of Technology Sydney (UTS)
 2021- Present
 - Developed AI and optimisation models for large-scale infrastructure and industrial systems
