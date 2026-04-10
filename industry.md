@@ -10,7 +10,15 @@ I work as a Data Scientist, Optimisation Specialist, and Decision Scientist, dev
 My experience spans manufacturing, supply chain, logistics, energy, and industrial systems, where I focus on turning complex data and constraints into deployable decision workflows—not just models, but actionable solutions aligned with real operational environments.
 
 ## Industry Experience
-### 1) Supply Chain & Logistics Analyst
+### 1) Applied Research & Industry Collaboration (Australia)
+### University of Technology Sydney (UTS)
+2021- Present
+- Developed AI and optimisation models for large-scale infrastructure and industrial systems
+- Built decision support systems integrating machine learning and optimisation
+- Applied predictive modelling for system performance, risk, and uncertainty analysis
+- Delivered industry-relevant research in energy, mining, and complex systems
+- Collaborated with multidisciplinary teams and industry stakeholders
+### 2) Supply Chain & Logistics Analyst
 ###  Iran Khodro (Automotive Manufacturing), Iran
 2017-2020
 
@@ -21,7 +29,7 @@ My experience spans manufacturing, supply chain, logistics, energy, and industri
 
 ---
 
-### 2) Data Scientist / Analytics Specialist
+### 3) Data Scientist / Analytics Specialist
 ### Diba Data co (Data & Technology Company), Iran
 2014-2016
 
@@ -33,7 +41,7 @@ My experience spans manufacturing, supply chain, logistics, energy, and industri
 
 ---
 
-### 3) Operations & Optimisation Analyst (Manufacturing)
+### 4) Operations & Optimisation Analyst (Manufacturing)
 ### Eratech Manufacturing Sdn Bhd (Oil & Gas Sector), Malaysia
 2013-2014
 
@@ -45,7 +53,7 @@ My experience spans manufacturing, supply chain, logistics, energy, and industri
 
 ---
 
-### 4) Production & Supply Chain Analyst
+### 5) Production & Supply Chain Analyst
 ### Persian Dairy Manufacturing Sdn Bhd (Food Industry), Malaysia
 2012-2013
 
@@ -55,14 +63,6 @@ My experience spans manufacturing, supply chain, logistics, energy, and industri
 - Analysed logistics and distribution processes for cost and service optimisation
 - Supported operational decision-making using data-driven approaches
 ---
-### 5) Applied Research & Industry Collaboration (Australia)
-### University of Technology Sydney (UTS)
-2021- Present
-- Developed AI and optimisation models for large-scale infrastructure and industrial systems
-- Built decision support systems integrating machine learning and optimisation
-- Applied predictive modelling for system performance, risk, and uncertainty analysis
-- Delivered industry-relevant research in energy, mining, and complex systems
-- Collaborated with multidisciplinary teams and industry stakeholders
 
 ## How I Work (Practical Delivery Style)
 - Decision-centric design (start from what must be decided, not from the model)
